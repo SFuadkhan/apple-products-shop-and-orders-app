@@ -1,6 +1,0 @@
-prop:
-  jwt:
-    username: ADMIN
-    password: 0123456789
-    expiration: 86400000
-    secret: c2VjcmV0S2V5T2ZDaWI=c2VjcmV0S2V5T2ZDaWI=c2VjcmV0S2V5T2ZDaWI
